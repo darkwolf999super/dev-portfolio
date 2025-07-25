@@ -19,7 +19,7 @@ export const experiences = [
   },
   {
     id: 4,
-    title: "Software Engineering Intern / Softwa  re Engineer I",
+    title: "Software Engineering Intern / Software Engineer I",
     company: "XpertDox",
     duration: "(Aug 2015 - Dec 2018)"
   }
