@@ -1,20 +1,26 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer III',
-    company: "BigRio",
-    duration: "(Apr 2020 - December 2024)"
+    title: 'Senior Software Engineer',
+    company: "TrueLetter.ai",
+    duration: "(Sep 2024 - Present)"
   },
   {
     id: 2,
-    title: "Full Stack Developer",
-    company: "YourMechanic",
-    duration: "(Aug 2017 - Mar 2020)"
+    title: "Senior Full-Stack Engineer",
+    company: "BigRio",
+    duration: "(Apr 2020 - Aug 2024)"
   },
   {
     id: 3,
-    title: "Full Stack Developer",
-    company: "Auth0",
-    duration: "(Feb 2014 - Jul 2017)"
+    title: "Software Engineer II",
+    company: "Revaluate",
+    duration: "(Dec 2018 - Mar 2020)"
+  },
+  {
+    id: 4,
+    title: "Software Engineering Intern / Softwa  re Engineer I",
+    company: "XpertDox",
+    duration: "(Aug 2015 - Dec 2018)"
   }
 ]

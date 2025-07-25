@@ -112,16 +112,14 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "CODY CHRIST",
+  name: "RANDALL CHRIST",
   profile: "/profile.png",
   designation: "Full-Stack Software Engineer",
-  description: "My name is CODY CHRIST....",
-  email: "cchrist1210@gmail.com",
-  phone: "+14259545959",
-  address: "Seattle, WA",
-  github: "https://github.com/super999christ",
-  linkedIn: "https://www.linkedin.com/in/codran-christ-4bb1881/",
-  resume: "...",
+  description: "My name is RANDALL CHRIST....",
+  email: "randallchrist56@gmail.com",
+  phone: "+12062387108",
+  address: "Pasco, WA",
+  resume: "https://drive.google.com/file/d/1RPn1crKEy-NJ-3BMWJnvJM00P3y-Qy8Y/view?usp=sharing",
 };
 ```
 
