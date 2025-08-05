@@ -111,7 +111,7 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Full-Stack Software Engineer",
   description: "My name is RANDALL CHRIST....",
-  email: "randallchrist56@gmail.com",
+  email: "randall007super@gmail.com",
   phone: "+12062387108",
   address: "Pasco, WA",
   resume: "https://drive.google.com/file/d/1RPn1crKEy-NJ-3BMWJnvJM00P3y-Qy8Y/view?usp=sharing",
